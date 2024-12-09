@@ -54,13 +54,21 @@ Pastikan Anda sudah menginstal Flutter di sistem Anda. Jika belum, ikuti [pandua
   flutter build windows
   ```
 
-## Screenshots
+## Usage
 
 Here are some screenshots of the application:
 
-| Splash Screen        | Home Screen    | Detail Screen    |
-|--------------------|-------------------|--------------------|
-| ![Splash](assets/screenshot/Screenshot_20241007_133452.png) | ![Home](assets/screenshot/Screenshot_20241007_133519.png) | ![Detail](assets/screenshot/Screenshot_20241007_133533.png) |
+- Update configurations in constant.dart if necessary.
+- Add your API or backend details.
+- Use the provided components and screens to build new features.
+
+## Mockups
+
+Berikut adalah mockup dari aplikasi:
+
+| Tampilan Mockup 1        | Tampilan Mockup 2    |
+|--------------------------|----------------------|
+| ![Mockup 1](assets/mockup/mockup1.png) | ![Mockup 2](assets/mockup/mockup2.png) |
 
 ## Folder Structure
 
@@ -73,10 +81,6 @@ Here are some screenshots of the application:
 
 Feel free to fork the repository and submit pull requests to contribute to the project.
 
-## Credits
-
-This project was inspired by the fantastic work of [Johannes Milke](https://www.youtube.com/@JohannesMilke) on his Flutter tutorials. Special thanks to his [YouTube video](https://youtu.be/HC-FOF-SoFc?si=HG_8toBzYu-p_EJ4), which provided a great foundation for this app. If you're looking to learn Flutter, check out his channel for amazing tutorials!
-
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Salin kode ini langsung ke file `README.md` untuk melengkapi dokumentasi proyek Anda. Jangan lupa mengganti placeholder seperti `<repository-url>` dengan informasi spesifik dari proyek Anda! 😊
