@@ -22,40 +22,39 @@ Pastikan Anda sudah menginstal Flutter di sistem Anda. Jika belum, ikuti [pandua
    git clone https://github.com/your-username/ecommerce_flutter.git
    cd ecommerce_flutter
 
-   
 2. Install the required dependencies:
-   
-flutter pub get
-
+   ```
+   flutter pub get
+   ```
 
 3. Run the project on your desired platform:
-   
-flutter run
-
+   ```
+   flutter run
+   ```
 
 ### Building for Production
 
 - **Android**:
-  
-flutter build apk
-
+  ```
+  flutter build apk
+  ```
 
 - **iOS**:
-  
-flutter build ios
-
+  ```
+  flutter build ios
+  ```
 
 - **Web**:
-  
-flutter build web
-
+  ```
+  flutter build web
+  ```
 
 - **Windows**:
-  
-flutter build windows
+  ```
+  flutter build windows
+  ```
 
-
-## Mockups
+## Screenshots
 
 Here are some screenshots of the application:
 
